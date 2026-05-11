@@ -1,0 +1,6 @@
+{
+  "query": "revenue by region",
+  "content_types": ["datasource", "workbook", "view"],
+  "page_number": 1,
+  "page_size": 10
+}

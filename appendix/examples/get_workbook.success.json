@@ -1,0 +1,52 @@
+{
+  "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+  "title": "Executive Monday Review",
+  "description": "Weekly executive summary covering revenue performance, regional highlights, and pipeline status.",
+  "category": "Executive",
+  "status": "READY",
+  "updated_at": "2026-04-01T06:15:00Z",
+  "views": [
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TK",
+      "title": "Q1 Revenue by Region",
+      "view_type": "bar",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "description": "Bar chart comparing net revenue across all regions for Q1 2026.",
+      "status": "READY"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TL",
+      "title": "Weekly Revenue Trend",
+      "view_type": "line",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "description": "Weekly line chart showing the revenue trend for the last 13 weeks.",
+      "status": "READY"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TM",
+      "title": "Revenue by Department",
+      "view_type": "pie",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "description": "Pie chart showing department contribution to total revenue.",
+      "status": "READY"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TN",
+      "title": "Store Performance Map",
+      "view_type": "treemap",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "description": "Treemap comparing stores by revenue and margin contribution.",
+      "status": "READY"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TP",
+      "title": "Order Volume Distribution",
+      "view_type": "histogram",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "description": "Histogram of order counts per store for the selected time period.",
+      "status": "READY"
+    }
+  ],
+  "slug": "executive-monday-review",
+  "created_at": "2025-01-10T00:00:00.000Z"
+}

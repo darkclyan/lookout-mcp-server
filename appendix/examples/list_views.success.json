@@ -1,0 +1,48 @@
+{
+  "items": [
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TK",
+      "title": "Q1 Revenue by Region",
+      "view_type": "bar",
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "status": "READY",
+      "updated_at": "2026-04-01T06:10:00Z"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TL",
+      "title": "Weekly Revenue Trend",
+      "view_type": "line",
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "status": "READY",
+      "updated_at": "2026-04-01T06:08:00Z"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TM",
+      "title": "Revenue by Department",
+      "view_type": "pie",
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "status": "READY",
+      "updated_at": "2026-04-01T06:06:00Z"
+    },
+    {
+      "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TN",
+      "title": "Store Performance Map",
+      "view_type": "treemap",
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "status": "READY",
+      "updated_at": "2026-04-01T06:04:00Z"
+    }
+  ],
+  "pagination": {
+    "page_number": 1,
+    "page_size": 4,
+    "total_available": 5,
+    "total_pages": 2,
+    "has_next_page": true,
+    "next_page_number": 2
+  }
+}

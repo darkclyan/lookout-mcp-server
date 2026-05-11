@@ -1,0 +1,44 @@
+{
+  "items": [
+    {
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "title": "Executive Monday Review",
+      "description": "Weekly executive summary covering revenue performance, regional highlights, and pipeline status.",
+      "category": "Executive",
+      "view_count": 5,
+      "updated_at": "2026-04-01T06:15:00Z"
+    },
+    {
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB6",
+      "title": "Pipeline Health",
+      "description": "Open pipeline, stage velocity, forecast coverage, and risk indicators for sales leadership.",
+      "category": "Sales",
+      "view_count": 6,
+      "updated_at": "2026-03-31T19:45:00Z"
+    },
+    {
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB7",
+      "title": "Store Operations Weekly",
+      "description": "Operational scorecards for store staffing, fulfillment, labor, and traffic conversion.",
+      "category": "Operations",
+      "view_count": 8,
+      "updated_at": "2026-03-30T11:20:00Z"
+    },
+    {
+      "workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB8",
+      "title": "Q1 Sales Review",
+      "description": "Quarter-end package focused on Q1 sales performance, promotional lifts, and margin outcomes.",
+      "category": "Sales",
+      "view_count": 7,
+      "updated_at": "2026-03-29T17:05:00Z"
+    }
+  ],
+  "pagination": {
+    "page_number": 1,
+    "page_size": 10,
+    "total_available": 4,
+    "total_pages": 1,
+    "has_next_page": false,
+    "next_page_number": null
+  }
+}

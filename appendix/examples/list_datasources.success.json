@@ -1,0 +1,52 @@
+{
+  "items": [
+    {
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "name": "Sales Performance",
+      "description": "Daily transactional sales data by store, product, region, and date. Covers FY2024\u2013FY2026.",
+      "status": "READY",
+      "freshness_state": "CURRENT",
+      "row_count_estimate": 18452321,
+      "field_count": 9,
+      "updated_at": "2026-04-01T05:30:00Z"
+    },
+    {
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2C",
+      "name": "Budget vs Actual",
+      "description": "Monthly plan versus actual revenue, margin, and expense targets by business unit and region.",
+      "status": "READY",
+      "freshness_state": "CURRENT",
+      "row_count_estimate": 8640,
+      "field_count": 14,
+      "updated_at": "2026-03-31T22:00:00Z"
+    },
+    {
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2D",
+      "name": "Store Operations",
+      "description": "Store labor, foot traffic, staffing compliance, and fulfillment metrics by location and week.",
+      "status": "STALE",
+      "freshness_state": "STALE",
+      "row_count_estimate": 245760,
+      "field_count": 18,
+      "updated_at": "2026-03-26T08:10:00Z"
+    },
+    {
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2B",
+      "name": "Marketing Performance",
+      "description": "Campaign spend, impressions, clicks, and attributed conversions across paid and owned channels.",
+      "status": "OFFLINE",
+      "freshness_state": "UNKNOWN",
+      "row_count_estimate": 512004,
+      "field_count": 16,
+      "updated_at": "2026-03-29T14:45:00Z"
+    }
+  ],
+  "pagination": {
+    "page_number": 1,
+    "page_size": 10,
+    "total_available": 4,
+    "total_pages": 1,
+    "has_next_page": false,
+    "next_page_number": null
+  }
+}

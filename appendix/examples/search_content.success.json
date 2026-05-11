@@ -1,0 +1,39 @@
+{
+  "results": [
+    {
+      "entity_type": "view",
+      "id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TK",
+      "title": "Q1 Revenue by Region",
+      "description_snippet": "Bar chart comparing net revenue across all regions for Q1 2026.",
+      "parent_workbook_id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "match_score": 0.94
+    },
+    {
+      "entity_type": "datasource",
+      "id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+      "title": "Sales Performance",
+      "description_snippet": "Daily transactional sales data by store, product, region, and date. Covers FY2024\u2013FY2026.",
+      "parent_workbook_id": null,
+      "datasource_id": null,
+      "match_score": 0.81
+    },
+    {
+      "entity_type": "workbook",
+      "id": "wb_01JTK7M5P3NX9R2Q8YZ4KC1VB5",
+      "title": "Executive Monday Review",
+      "description_snippet": "Weekly executive summary covering revenue performance, regional highlights, and pipeline status.",
+      "parent_workbook_id": null,
+      "datasource_id": null,
+      "match_score": 0.72
+    }
+  ],
+  "pagination": {
+    "page_number": 1,
+    "page_size": 10,
+    "total_available": 3,
+    "total_pages": 1,
+    "has_next_page": false,
+    "next_page_number": null
+  }
+}

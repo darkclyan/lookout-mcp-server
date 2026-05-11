@@ -1,0 +1,46 @@
+{
+  "view_id": "vw_01JTK8J4E8AM2R4T3YX3GZC3TK",
+  "title": "Q1 Revenue by Region",
+  "view_type": "bar",
+  "axes": {
+    "x_label": "Region",
+    "y_label": "Net Revenue"
+  },
+  "resolved_filters": [
+    {
+      "field": "order_date",
+      "op": "between",
+      "value": ["2026-01-01", "2026-03-31"]
+    }
+  ],
+  "series": [
+    {
+      "name": "Revenue",
+      "points": [
+        {
+          "x": "East",
+          "y": 2150000.25
+        },
+        {
+          "x": "West",
+          "y": 1934200.1
+        },
+        {
+          "x": "Central",
+          "y": 1621500.75
+        },
+        {
+          "x": "South",
+          "y": 1442800.5
+        }
+      ]
+    }
+  ],
+  "summary_statistics": {
+    "min": 1442800.5,
+    "max": 2150000.25,
+    "average": 1787125.4,
+    "trend": "flat"
+  },
+  "warnings": []
+}

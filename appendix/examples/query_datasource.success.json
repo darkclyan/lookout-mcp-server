@@ -1,0 +1,21 @@
+{
+  "query_result_id": "qr_01JTK9K5F9BN3S5U4ZA5HD2WM6",
+  "columns": [
+    {
+      "name": "order_month",
+      "data_type": "date"
+    },
+    {
+      "name": "revenue",
+      "data_type": "decimal"
+    }
+  ],
+  "rows": [
+    ["2026-01-01", 2245180.42],
+    ["2026-02-01", 2419075.18],
+    ["2026-03-01", 2673840.77]
+  ],
+  "total_rows": 3,
+  "returned_rows": 3,
+  "truncated": false
+}

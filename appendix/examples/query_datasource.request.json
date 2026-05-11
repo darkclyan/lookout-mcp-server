@@ -1,0 +1,35 @@
+{
+  "datasource_id": "ds_01JTK6N6WQ8C6Q4PNM9H9J7Q2A",
+  "select": [
+    {
+      "field": "order_date",
+      "granularity": "month",
+      "alias": "order_month"
+    },
+    {
+      "field": "net_revenue",
+      "aggregate": "sum",
+      "alias": "revenue"
+    }
+  ],
+  "filters": [
+    {
+      "field": "region_name",
+      "op": "in",
+      "value": ["East", "West"]
+    },
+    {
+      "field": "order_date",
+      "op": "between",
+      "value": ["2026-01-01", "2026-03-31"]
+    }
+  ],
+  "group_by": ["order_month"],
+  "order_by": [
+    {
+      "field": "order_month",
+      "direction": "asc"
+    }
+  ],
+  "limit": 200
+}

@@ -1,0 +1,12 @@
+{
+  "error": {
+    "code": "INVALID_FILTER",
+    "message": "The filter operator 'between' is not valid for the string field 'store_name'. The 'between' operator requires a date or numeric field.",
+    "details": {
+      "field": "store_name",
+      "op": "between",
+      "field_data_type": "string",
+      "allowed_operators": ["eq", "ne", "in", "contains", "starts_with", "ends_with", "is_null", "is_not_null"]
+    }
+  }
+}
